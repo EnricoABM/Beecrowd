@@ -1,3 +1,4 @@
+
 N = int(input())
 while N < 0 or N > 1000000:
     N = int(input())

@@ -1,4 +1,4 @@
-days_ = int(input("Digite o número de dias: "))
+days_ = int(input())
 
 years = days_ / 365
 mouths = (days_ % 365) / 30
