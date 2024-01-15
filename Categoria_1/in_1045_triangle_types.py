@@ -1,4 +1,4 @@
-
+# Wrong
 A, B, C = map(float, input().split())
 if not B + C >= A:
     print('NAO FORMA TRIANGULO')
