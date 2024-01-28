@@ -42,6 +42,7 @@
 | 1047 | :white_check_mark: | Game Time with Minutes | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1047) | [Arquivo](categoria_1/1047_game_time_with_minutes.py) |
 | 1048 | :white_check_mark: | Salary Increase | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [Arquivo](categoria_1/1048_salary_increase.py) |
 | 1049 | :white_check_mark: | Animal | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [Arquivo](categoria_1/1049.py) |
+| 1050 | :white_check_mark: | DDD | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [Arquivo](categoria_1/1050.py) |
 | 2006 | :white_check_mark: | Identifying Tea | [Link](https://www.beecrowd.com.br/judge/en/problems/view/2006) | [Arquivo](categoria_1/2006_identifying_tea.py) |
 
 ## Categoria 3
