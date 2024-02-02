@@ -43,7 +43,11 @@
 | 1048 | :white_check_mark: | Salary Increase | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [Arquivo](categoria_1/1048.py) |
 | 1049 | :white_check_mark: | Animal | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [Arquivo](categoria_1/1049.py) |
 | 1050 | :white_check_mark: | DDD | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [Arquivo](categoria_1/1050.py) |
+| 1051 | :white_check_mark: | Taxes | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [Arquivo](categoria_1/1051.py) |
+| 1051 | :white_check_mark: | Month | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [Arquivo](categoria_1/1052.py) |
 | 2006 | :white_check_mark: | Identifying Tea | [Link](https://www.beecrowd.com.br/judge/en/problems/view/2006) | [Arquivo](categoria_1/2006.py) |
+| 2709 | :x: | The Coins of Robbie | [Link](https://www.beecrowd.com.br/judge/en/problems/view/2709) | [Arquivo](categoria_1/2709.py) |
+
 
 ## Categoria 3
 
