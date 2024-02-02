@@ -8,8 +8,8 @@ i = 0
 aux = N
 while i < 7:
     notas.append(aux//ordem[i])
-    aux = aux%ordem[i]
-    i += 1    
+    aux = aux % ordem[i]
+    i += 1
 
 print(N)
 j = 0

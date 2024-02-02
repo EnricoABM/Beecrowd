@@ -19,8 +19,10 @@ class Jogo:
             horas = (total_minutos_fim - total_minutos_inicio) // 60
             minutos = (total_minutos_fim - total_minutos_inicio) % 60
         return [horas, minutos]
-    
+
+
 a, b, c, d = map(int, input().split())
 j1 = Jogo(a, b, c, d)
 horas_minutos = j1.calcular()
-print(f'O JOGO DUROU {horas_minutos[0]} HORA(S) E {horas_minutos[1]} MINUTO(S)')
+msg = f'O JOGO DUROU {horas_minutos[0]} HORA(S) E {horas_minutos[1]} MINUTO(S)'
+print(msg)

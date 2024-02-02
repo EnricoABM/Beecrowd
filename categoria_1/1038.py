@@ -1,5 +1,4 @@
-
-X, Y = map(int, input().split())
+X, Y = map(float, input().split())
 
 if X == 1:
     res = 4 * Y

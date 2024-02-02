@@ -4,7 +4,7 @@ Q1 = x > 0 and y > 0
 Q2 = x < 0 and y > 0
 Q3 = x < 0 and y < 0
 Q4 = x > 0 and y < 0
-O = x == 0 and y == 0
+Or = x == 0 and y == 0
 X = y == 0
 Y = x == 0
 
@@ -16,10 +16,9 @@ elif Q3:
     print('Q3')
 elif Q4:
     print('Q4')
-elif O:
+elif Or:
     print('Origem')
 elif X:
     print('Eixo X')
 elif Y:
     print('Eixo Y')
-
