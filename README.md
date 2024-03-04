@@ -45,7 +45,10 @@ Repositório com a solução dos desafios proposto na comunidade [beecrowd.com](
 | 1050 | :white_check_mark: | DDD | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [Arquivos](categoria_1/1050/) |
 | 1051 | :white_check_mark: | Taxes | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1051) | [Arquivos](categoria_1/1051/) |
 | 1052 | :white_check_mark: | Month | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1052) | [Arquivos](categoria_1/1052/) |
-| 1053 | :x: | Even Numbers | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1053) | [Arquivos](categoria_1/1053/) |
+| 1059 | :white_check_mark: | Even Numbers | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1059) | [Arquivos](categoria_1/1059/) |
+| 1060 | :white_check_mark: | Positive Numbers | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1060) | [Arquivos](categoria_1/1060/) |
+| 1061 | :x: | Event Time | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1061) | [Arquivos](categoria_1/1061/) |
+| 1064 | :x: | Positives and Average | [Link](https://www.beecrowd.com.br/judge/en/problems/view/1064) | [Arquivos](categoria_1/1064/) |
 | 2006 | :white_check_mark: | Identifying Tea | [Link](https://www.beecrowd.com.br/judge/en/problems/view/2006) | [Arquivos](categoria_1/2006/) |
 | 2709 | :x: | The Coins of Robbie | [Link](https://www.beecrowd.com.br/judge/en/problems/view/2709) | [Arquivos](categoria_1/2709/) |
 
