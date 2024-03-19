@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class Main1061 {
-    public static void main (Strings[] args) {
+    public static void main (String[] args) {
                 
         int first_day, 
             first_hour, 
